@@ -1,0 +1,6 @@
+framework module Pods_AeonLMSUITests {
+  umbrella header "Pods-AeonLMSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
